@@ -43,3 +43,15 @@ C:\__수업__KU\C#\P_ParkingManagement\Practice_CarManager\Practice_CarManager\o
 C:\__수업__KU\C#\P_ParkingManagement\Practice_CarManager\Practice_CarManager\obj\Debug\Practice_CarManager.csproj.CopyComplete
 C:\__수업__KU\C#\P_ParkingManagement\Practice_CarManager\Practice_CarManager\obj\Debug\Practice_CarManager.exe
 C:\__수업__KU\C#\P_ParkingManagement\Practice_CarManager\Practice_CarManager\obj\Debug\Practice_CarManager.pdb
+C:\Users\KB\Desktop\포트폴리오\ParkingManagement\Json_CarManager\Practice_CarManager\bin\Debug\Practice_CarManager.exe.config
+C:\Users\KB\Desktop\포트폴리오\ParkingManagement\Json_CarManager\Practice_CarManager\bin\Debug\Practice_CarManager.exe
+C:\Users\KB\Desktop\포트폴리오\ParkingManagement\Json_CarManager\Practice_CarManager\bin\Debug\Practice_CarManager.pdb
+C:\Users\KB\Desktop\포트폴리오\ParkingManagement\Json_CarManager\Practice_CarManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KB\Desktop\포트폴리오\ParkingManagement\Json_CarManager\Practice_CarManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KB\Desktop\포트폴리오\ParkingManagement\Json_CarManager\Practice_CarManager\obj\Debug\Practice_CarManager.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\포트폴리오\ParkingManagement\Json_CarManager\Practice_CarManager\obj\Debug\Practice_CarManager.Form1.resources
+C:\Users\KB\Desktop\포트폴리오\ParkingManagement\Json_CarManager\Practice_CarManager\obj\Debug\Practice_CarManager.Properties.Resources.resources
+C:\Users\KB\Desktop\포트폴리오\ParkingManagement\Json_CarManager\Practice_CarManager\obj\Debug\Practice_CarManager.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\포트폴리오\ParkingManagement\Json_CarManager\Practice_CarManager\obj\Debug\Practice_CarManager.csproj.CopyComplete
+C:\Users\KB\Desktop\포트폴리오\ParkingManagement\Json_CarManager\Practice_CarManager\obj\Debug\Practice_CarManager.exe
+C:\Users\KB\Desktop\포트폴리오\ParkingManagement\Json_CarManager\Practice_CarManager\obj\Debug\Practice_CarManager.pdb

@@ -29,6 +29,7 @@ namespace Practice_CarManager
             {
                 Car car = dataGridView1.CurrentRow.DataBoundItem as Car;
                 textBox_parkingSpot.Text = car.parkingSpot;
+                textBox_spotCheck.Text = car.parkingSpot;
                 textBox_carNumber.Text = car.carNumber;
                 textBox_driverName.Text = car.driverName;
                 textBox_phoneNumber.Text = car.phoneNumber;

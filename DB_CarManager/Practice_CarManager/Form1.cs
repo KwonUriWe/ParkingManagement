@@ -49,6 +49,7 @@ namespace Practice_CarManager
             try
             {
                 textBox_parkingSpot.Text = dataGridView1.CurrentRow.Cells[0].Value.ToString();
+                textBox_spotCheck.Text = dataGridView1.CurrentRow.Cells[0].Value.ToString();
                 textBox_carNumber.Text = dataGridView1.CurrentRow.Cells[1].Value.ToString();
                 textBox_driverName.Text = dataGridView1.CurrentRow.Cells[2].Value.ToString();
                 textBox_phoneNumber.Text = dataGridView1.CurrentRow.Cells[3].Value.ToString();
